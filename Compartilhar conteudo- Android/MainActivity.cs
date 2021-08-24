@@ -18,7 +18,7 @@ using Plugin.Fingerprint;
 
 namespace ForcaDeVendasMobile.Droid
 {
-    [Activity(Label = "APIS Forca de Vendas", Icon = "@drawable/Logo", Theme = "@style/MainTheme", MainLauncher = false, 
+    [Activity(Label = "", Icon = "@drawable/Logo", Theme = "@style/MainTheme", MainLauncher = false, 
         ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation, ScreenOrientation = ScreenOrientation.Portrait)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
