@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace ForcaDeVendasMobile.Droid
 {
-    [Activity(Label = "Apis Força de Vendas", Theme = "@style/Theme.Splash", Icon = "@drawable/icon", MainLauncher = true, NoHistory = true)]
+    [Activity(Label = "", Theme = "@style/Theme.Splash", Icon = "@drawable/icon", MainLauncher = true, NoHistory = true)]
     public class SplashActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
